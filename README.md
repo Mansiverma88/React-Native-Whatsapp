@@ -40,10 +40,9 @@
 - Run, npm i in cmd, after moving into the folder
 - Run npm start
 
-## Project can be viewed on 
-![Whatsapp]!(https://github.com/Mansiverma88/React-Native-Whatsapp/assets/98829045/5e534ebe-3500-4931-949d-90dc4bf4a162)
-250]()
+## Project can be viewed on
 ![image](https://github.com/Mansiverma88/React-Native-Whatsapp/assets/98829045/fa4410d5-6957-498d-a3be-4a12ef857555)
+
 [Whatsapp_expo_client](exp://exp.host/@mansi_verma888/Whatsapp-Clone?release-channel=default)
 
 
