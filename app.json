@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "Whatsapp",
-    "slug": "Whatsapp",
+    "name": "Whatsapp Clone",
+    "slug": "Whatsapp-Clone",
+    "description": "Utilized React native to build a Whatsapp Clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
