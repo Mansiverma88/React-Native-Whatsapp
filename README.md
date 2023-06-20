@@ -41,6 +41,8 @@
 - Run npm start
 
 ## Project can be viewed on 
+![Screenshot 2023-06-02 140![Whatsapp_Clone](https://github.com/Mansiverma88/React-Native-Whatsapp/assets/98829045/5e534ebe-3500-4931-949d-90dc4bf4a162)
+250]()
 exp://exp.host/@mansi_verma888/Whatsapp-Clone?release-channel=default
 
 
